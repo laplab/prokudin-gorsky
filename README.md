@@ -10,7 +10,7 @@ pip install -r requirements.txt
 ## Input data
 Input is a camera photo containing each color channel in grayscale
 
-![Input example](data/small/2.png)  
+<img src="data/small/2.png" alt="Input example" width="30%">
 
 ## Usage
 
@@ -36,4 +36,5 @@ Usage: app.py align_image [OPTIONS] IMG DEST
 ![Example 1](result/small/7.png)
 ![Example 2](result/small/1.png)
 ![Example 3](result/small/2.png)
+![Example 4](result/small/6.png)
  
